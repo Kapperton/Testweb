@@ -1,0 +1,46 @@
+#colorButton {
+    background-color: blue;
+    color: white;
+}
+
+
+button:hover{
+    background: color #AAAAFF;
+}
+
+header {
+    background-color:#25015f;
+    color:#c7a4ff;
+    padding: 1rem;
+    text-align: center;
+}
+
+nav a{
+    color:#c7a4ff;
+    margin: 0 1rem;
+    text-decoration:none;
+}
+body {
+    color:#c7a4ff;
+    background-color:rgb(63, 14, 142);
+}
+
+#index {
+    text-align:center;
+    background-image:url('https://cdn.dribbble.com/userupload/21481648/file/original-b9c3b03d2fbfb1967ff9537d8ae7a9b6.gif');
+    background-repeat:inherit;
+    background-position:center;
+}
+
+.big {
+    font-size: 500%;
+}
+
+.homepage {
+    background-color: #25015f;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 30px;
+    padding: 20px;
+    border-radius:8px;
+}
